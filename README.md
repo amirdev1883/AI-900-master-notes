@@ -5,6 +5,13 @@
 
 ---
 
+# AI-900 Master Notes
+
+📁 **Full Study Materials (Google Drive):**  
+👉 https://drive.google.com/drive/folders/13i54qqovtSzoDV8qZXZL5MATA8wpN5wN?usp=sharing
+
+---
+
 ## Table of Contents
 
 1. [AI Fundamentals](#1-ai-fundamentals)
